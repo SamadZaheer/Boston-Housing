@@ -63,7 +63,7 @@ Some highlights of the dataset analysis:
 - Scatter plots showing relationships between **features and house prices**.  
 
 <p align="center">
-  <img src="images/eda.png" alt="EDA Visualization" width="700"/>
+  <img src="images/boston_corr_heatmap.png" alt="Correlation Heatmap" width="800"/>
 </p>
 
 ---
